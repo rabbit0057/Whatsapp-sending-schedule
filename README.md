@@ -42,7 +42,9 @@ This is module which sends Whatsapp Message to any given Mobile no.
 
 
 
-Note : for sending directly to mobile number please provide valid mobile number with country code 
+Note : 
+- Install whatsapp desktop app for windows/Mac/Ubuntu. (It can be still used via https://web.whatsapp.com/)
+- for sending directly to mobile number please provide valid mobile number with country code 
 
 thanks
 
