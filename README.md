@@ -46,5 +46,5 @@ Note :
 - Install whatsapp desktop app for windows/Mac/Ubuntu. (It can be still used via https://web.whatsapp.com/)
 - for sending directly to mobile number please provide valid mobile number with country code 
 
-thanks
+
 
